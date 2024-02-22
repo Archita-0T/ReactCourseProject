@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.heading{
+    text-align: center;
+    background-color: rgb(18, 18, 65);
+    color: white;
+    padding: 2px;
+}
